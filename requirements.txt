@@ -1,4 +1,10 @@
+geojson
 python-geohash
 geopandas
 openlocationcode
 osm2geojson
+geohash
+openlocationcode
+shapely
+geopy
+ipyleaflet
